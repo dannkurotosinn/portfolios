@@ -1,20 +1,20 @@
-# portfolios
-- z²‘åŠì
-- ˜A—æ Email susataiki0704@gmail,com
-- ê–åŠwZƒfƒWƒ^ƒ‹ƒA[ƒc“Œ‹ž ƒQ[ƒ€ƒvƒƒOƒ‰ƒ€ƒR[ƒX 2026”N‘²‹Æ—\’è
-## ƒXƒLƒ‹
+ï»¿# portfolios
+- è«ä½å¤§å–œ
+- é€£çµ¡å…ˆ Email susataiki0704@gmail,com
+- å°‚é–€å­¦æ ¡ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¢ãƒ¼ãƒ„æ±äº¬ ã‚²ãƒ¼ãƒ ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚³ãƒ¼ã‚¹ 2026å¹´å’æ¥­äºˆå®š
+## ã‚¹ã‚­ãƒ«
 - C#
-  - —˜—p—ð1”N
-  - ‚Ç‚Ì’ö“xŽg‚¦‚é‚©
+  - åˆ©ç”¨æ­´1å¹´
+  - ã©ã®ç¨‹åº¦ä½¿ãˆã‚‹ã‹
 - Unity
-  - —˜—p—ð1”N
-  - ‚Ç‚Ì’ö“xŽg‚¦‚é‚©
+  - åˆ©ç”¨æ­´1å¹´
+  - ã©ã®ç¨‹åº¦ä½¿ãˆã‚‹ã‹
 - C/C++
-  - —˜—p—ð1”N
-  - ‚Ç‚Ì’ö“xŽg‚¦‚é‚©
+  - åˆ©ç”¨æ­´1å¹´
+  - ã©ã®ç¨‹åº¦ä½¿ãˆã‚‹ã‹
 
-## Žæ‚è‘g‚ñ‚Å‚¢‚éƒe[ƒ}
-- ‰½‚©Å’áˆê‚Âl‚¦‚Ä‚­‚¾‚³‚¢
+## å–ã‚Šçµ„ã‚“ã§ã„ã‚‹ãƒ†ãƒ¼ãƒž
+- ä½•ã‹æœ€ä½Žä¸€ã¤è€ƒãˆã¦ãã ã•ã„
 
 
 
