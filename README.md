@@ -16,8 +16,9 @@
 ## 取り組んでいるテーマ
 - Unityのスキル向上
 - オリジナルゲームの作成
-##作品
 
+## 作品
+-ジャンプフロッグ
 
 ![image](https://github.com/user-attachments/assets/d7ac13c1-375d-40bf-9dd5-828029c74d92)
 
